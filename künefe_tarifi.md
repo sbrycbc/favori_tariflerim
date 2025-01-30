@@ -10,4 +10,5 @@
 
 Afiyet Olsun 😋🍴
 
-![künefe](./images/künefe.jpg)
+<img src="./images/künefe.jpg" alt="Künefe" width="350"/>  
+
