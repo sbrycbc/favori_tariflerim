@@ -1,4 +1,4 @@
-# Langos Tarifi (Almanya Mutfaklarından)
+# Langos Tarifi (Almanya Mutfagindan)
 
 ## **Malzemeler:**
 
