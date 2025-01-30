@@ -1,6 +1,6 @@
 # Favori Tariflerim
 
-[Almanya Mutfagindan Langos](./langos_tarif.md)   🍞 🧄 🧀
+[Almanya Mutfagindan Langos](./langos_tarifi.md)   🍞 🧄 🧀
 
 <img src="./images/langos.JPG" alt="Langos" width="350"/>  
 
