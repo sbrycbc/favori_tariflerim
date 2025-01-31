@@ -30,4 +30,4 @@
 *Afiyet Olsun 😋🍴*
 
 
-![langos](./images/langos.JPG)
+![langos](./images/langos.JPG/ "langos")
