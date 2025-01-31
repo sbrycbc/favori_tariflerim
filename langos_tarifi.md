@@ -27,7 +27,7 @@
 
 6. Lángosları sıcak servis edin, üzerine sarımsaklı yoğurt 🧄🥣, rendelenmiş peynir 🧀 veya tatlı versiyonunda pudra şekeri 🍩 serpebilirsiniz.
 
-Afiyet Olsun 😋🍴
+*Afiyet Olsun 😋🍴*
 
 
 ![langos](./images/langos.JPG)
