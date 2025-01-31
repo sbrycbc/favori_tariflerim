@@ -1,7 +1,7 @@
 # Künefe Tarifi
 
 
-## *📌 Malzemeler:*  
+## *Malzemeler:*  
 - 🧵 **300 gram** tel kadayıf  
 - 🧈 **150 gram** tereyağı  
 - 🧀 **200 gram** tuzsuz beyaz peynir (veya künefe peyniri)  
